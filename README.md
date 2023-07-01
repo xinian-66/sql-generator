@@ -2,7 +2,7 @@
 
 > 用 JSON 来轻松生成复杂的 SQL，大幅提高写 SQL 的效率！
 > 
-> by 程序员鱼皮
+> 来自鱼皮
 
 在线使用：http://sql.yupi.icu
 
