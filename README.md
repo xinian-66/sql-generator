@@ -6,7 +6,7 @@
 
 在线使用：http://sql.yupi.icu
 
-项目介绍视频：https://www.bilibili.com/video/BV1qa411J7vh/
+
 
 ![工具截图](./doc/assets/main.png)
 
